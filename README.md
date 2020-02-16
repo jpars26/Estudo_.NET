@@ -1,4 +1,5 @@
 # Estudo_.NET
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 # **Exercicios de fixação do conteudo**
@@ -162,3 +163,5 @@ e) a área do retângulo que tem lados A e B.
        }
     }
 >>>>>>> e8f630bcc83e680507b5caa0f74b843d4e1dd19c
+=======
+>>>>>>> 72fcdaf51215c58c32dff03522f9fa01af180c9d
