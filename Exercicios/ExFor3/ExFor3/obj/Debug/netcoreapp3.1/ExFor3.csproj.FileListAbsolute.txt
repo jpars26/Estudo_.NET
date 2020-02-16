@@ -1,0 +1,10 @@
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\ExFor3\ExFor3\bin\Debug\netcoreapp3.1\ExFor3.exe
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\ExFor3\ExFor3\bin\Debug\netcoreapp3.1\ExFor3.deps.json
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\ExFor3\ExFor3\bin\Debug\netcoreapp3.1\ExFor3.runtimeconfig.json
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\ExFor3\ExFor3\bin\Debug\netcoreapp3.1\ExFor3.runtimeconfig.dev.json
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\ExFor3\ExFor3\bin\Debug\netcoreapp3.1\ExFor3.dll
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\ExFor3\ExFor3\bin\Debug\netcoreapp3.1\ExFor3.pdb
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\ExFor3\ExFor3\obj\Debug\netcoreapp3.1\ExFor3.AssemblyInfoInputs.cache
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\ExFor3\ExFor3\obj\Debug\netcoreapp3.1\ExFor3.AssemblyInfo.cs
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\ExFor3\ExFor3\obj\Debug\netcoreapp3.1\ExFor3.dll
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\ExFor3\ExFor3\obj\Debug\netcoreapp3.1\ExFor3.pdb

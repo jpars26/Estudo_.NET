@@ -1,0 +1,11 @@
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\ExFor2\ExFor2\bin\Debug\netcoreapp3.1\ExFor2.exe
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\ExFor2\ExFor2\bin\Debug\netcoreapp3.1\ExFor2.deps.json
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\ExFor2\ExFor2\bin\Debug\netcoreapp3.1\ExFor2.runtimeconfig.json
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\ExFor2\ExFor2\bin\Debug\netcoreapp3.1\ExFor2.runtimeconfig.dev.json
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\ExFor2\ExFor2\bin\Debug\netcoreapp3.1\ExFor2.dll
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\ExFor2\ExFor2\bin\Debug\netcoreapp3.1\ExFor2.pdb
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\ExFor2\ExFor2\obj\Debug\netcoreapp3.1\ExFor2.csprojAssemblyReference.cache
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\ExFor2\ExFor2\obj\Debug\netcoreapp3.1\ExFor2.AssemblyInfoInputs.cache
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\ExFor2\ExFor2\obj\Debug\netcoreapp3.1\ExFor2.AssemblyInfo.cs
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\ExFor2\ExFor2\obj\Debug\netcoreapp3.1\ExFor2.dll
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\ExFor2\ExFor2\obj\Debug\netcoreapp3.1\ExFor2.pdb
