@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jp_ar\\Documents\\Estudo_.NET\\Primeiro\\Primeiro\\Segundo.csproj",
-      "projectName": "Segundo",
-      "projectPath": "C:\\Users\\jp_ar\\Documents\\Estudo_.NET\\Primeiro\\Primeiro\\Segundo.csproj",
+      "projectUniqueName": "C:\\Users\\jp_ar\\Documents\\Estudo_.NET\\Primeiro\\Primeiro\\Primeiro.csproj",
+      "projectName": "Primeiro",
+      "projectPath": "C:\\Users\\jp_ar\\Documents\\Estudo_.NET\\Primeiro\\Primeiro\\Primeiro.csproj",
       "packagesPath": "C:\\Users\\jp_ar\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jp_ar\\Documents\\Estudo_.NET\\Primeiro\\Primeiro\\obj\\",
       "projectStyle": "PackageReference",
