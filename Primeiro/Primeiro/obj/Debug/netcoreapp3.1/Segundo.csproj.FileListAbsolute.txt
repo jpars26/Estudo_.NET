@@ -1,0 +1,11 @@
+C:\Users\jp_ar\Documents\Estudo_.NET\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Segundo.exe
+C:\Users\jp_ar\Documents\Estudo_.NET\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Segundo.deps.json
+C:\Users\jp_ar\Documents\Estudo_.NET\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Segundo.runtimeconfig.json
+C:\Users\jp_ar\Documents\Estudo_.NET\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Segundo.runtimeconfig.dev.json
+C:\Users\jp_ar\Documents\Estudo_.NET\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Segundo.dll
+C:\Users\jp_ar\Documents\Estudo_.NET\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Segundo.pdb
+C:\Users\jp_ar\Documents\Estudo_.NET\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Segundo.csprojAssemblyReference.cache
+C:\Users\jp_ar\Documents\Estudo_.NET\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Segundo.AssemblyInfoInputs.cache
+C:\Users\jp_ar\Documents\Estudo_.NET\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Segundo.AssemblyInfo.cs
+C:\Users\jp_ar\Documents\Estudo_.NET\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Segundo.dll
+C:\Users\jp_ar\Documents\Estudo_.NET\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Segundo.pdb
