@@ -1,0 +1,11 @@
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\Ex_IF_Else\Ex_IF_Else\bin\Debug\netcoreapp3.1\Ex_IF_Else.exe
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\Ex_IF_Else\Ex_IF_Else\bin\Debug\netcoreapp3.1\Ex_IF_Else.deps.json
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\Ex_IF_Else\Ex_IF_Else\bin\Debug\netcoreapp3.1\Ex_IF_Else.runtimeconfig.json
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\Ex_IF_Else\Ex_IF_Else\bin\Debug\netcoreapp3.1\Ex_IF_Else.runtimeconfig.dev.json
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\Ex_IF_Else\Ex_IF_Else\bin\Debug\netcoreapp3.1\Ex_IF_Else.dll
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\Ex_IF_Else\Ex_IF_Else\bin\Debug\netcoreapp3.1\Ex_IF_Else.pdb
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\Ex_IF_Else\Ex_IF_Else\obj\Debug\netcoreapp3.1\Ex_IF_Else.csprojAssemblyReference.cache
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\Ex_IF_Else\Ex_IF_Else\obj\Debug\netcoreapp3.1\Ex_IF_Else.AssemblyInfoInputs.cache
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\Ex_IF_Else\Ex_IF_Else\obj\Debug\netcoreapp3.1\Ex_IF_Else.AssemblyInfo.cs
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\Ex_IF_Else\Ex_IF_Else\obj\Debug\netcoreapp3.1\Ex_IF_Else.dll
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\Ex_IF_Else\Ex_IF_Else\obj\Debug\netcoreapp3.1\Ex_IF_Else.pdb
