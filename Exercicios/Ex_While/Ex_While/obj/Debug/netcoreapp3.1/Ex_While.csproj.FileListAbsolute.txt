@@ -1,0 +1,11 @@
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\Ex_While\Ex_While\bin\Debug\netcoreapp3.1\Ex_While.exe
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\Ex_While\Ex_While\bin\Debug\netcoreapp3.1\Ex_While.deps.json
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\Ex_While\Ex_While\bin\Debug\netcoreapp3.1\Ex_While.runtimeconfig.json
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\Ex_While\Ex_While\bin\Debug\netcoreapp3.1\Ex_While.runtimeconfig.dev.json
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\Ex_While\Ex_While\bin\Debug\netcoreapp3.1\Ex_While.dll
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\Ex_While\Ex_While\bin\Debug\netcoreapp3.1\Ex_While.pdb
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\Ex_While\Ex_While\obj\Debug\netcoreapp3.1\Ex_While.csprojAssemblyReference.cache
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\Ex_While\Ex_While\obj\Debug\netcoreapp3.1\Ex_While.AssemblyInfoInputs.cache
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\Ex_While\Ex_While\obj\Debug\netcoreapp3.1\Ex_While.AssemblyInfo.cs
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\Ex_While\Ex_While\obj\Debug\netcoreapp3.1\Ex_While.dll
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\Ex_While\Ex_While\obj\Debug\netcoreapp3.1\Ex_While.pdb

@@ -1,0 +1,10 @@
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\EX_while3\EX_while3\bin\Debug\netcoreapp3.1\EX_while3.exe
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\EX_while3\EX_while3\bin\Debug\netcoreapp3.1\EX_while3.deps.json
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\EX_while3\EX_while3\bin\Debug\netcoreapp3.1\EX_while3.runtimeconfig.json
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\EX_while3\EX_while3\bin\Debug\netcoreapp3.1\EX_while3.runtimeconfig.dev.json
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\EX_while3\EX_while3\bin\Debug\netcoreapp3.1\EX_while3.dll
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\EX_while3\EX_while3\bin\Debug\netcoreapp3.1\EX_while3.pdb
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\EX_while3\EX_while3\obj\Debug\netcoreapp3.1\EX_while3.AssemblyInfoInputs.cache
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\EX_while3\EX_while3\obj\Debug\netcoreapp3.1\EX_while3.AssemblyInfo.cs
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\EX_while3\EX_while3\obj\Debug\netcoreapp3.1\EX_while3.dll
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios\EX_while3\EX_while3\obj\Debug\netcoreapp3.1\EX_while3.pdb
