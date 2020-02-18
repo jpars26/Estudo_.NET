@@ -1,0 +1,11 @@
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios_OObj\Ex_Aluguel\Ex_Aluguel\bin\Debug\netcoreapp3.1\Ex_Aluguel.exe
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios_OObj\Ex_Aluguel\Ex_Aluguel\bin\Debug\netcoreapp3.1\Ex_Aluguel.deps.json
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios_OObj\Ex_Aluguel\Ex_Aluguel\bin\Debug\netcoreapp3.1\Ex_Aluguel.runtimeconfig.json
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios_OObj\Ex_Aluguel\Ex_Aluguel\bin\Debug\netcoreapp3.1\Ex_Aluguel.runtimeconfig.dev.json
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios_OObj\Ex_Aluguel\Ex_Aluguel\bin\Debug\netcoreapp3.1\Ex_Aluguel.dll
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios_OObj\Ex_Aluguel\Ex_Aluguel\bin\Debug\netcoreapp3.1\Ex_Aluguel.pdb
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios_OObj\Ex_Aluguel\Ex_Aluguel\obj\Debug\netcoreapp3.1\Ex_Aluguel.csprojAssemblyReference.cache
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios_OObj\Ex_Aluguel\Ex_Aluguel\obj\Debug\netcoreapp3.1\Ex_Aluguel.AssemblyInfoInputs.cache
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios_OObj\Ex_Aluguel\Ex_Aluguel\obj\Debug\netcoreapp3.1\Ex_Aluguel.AssemblyInfo.cs
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios_OObj\Ex_Aluguel\Ex_Aluguel\obj\Debug\netcoreapp3.1\Ex_Aluguel.dll
+C:\Users\jp_ar\Documents\Estudo_.NET\Exercicios_OObj\Ex_Aluguel\Ex_Aluguel\obj\Debug\netcoreapp3.1\Ex_Aluguel.pdb
