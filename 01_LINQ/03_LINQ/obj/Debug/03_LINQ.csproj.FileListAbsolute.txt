@@ -1,0 +1,7 @@
+C:\Users\Meta Posto\source\repos\01_LINQ\03_LINQ\bin\Debug\03_LINQ.exe.config
+C:\Users\Meta Posto\source\repos\01_LINQ\03_LINQ\bin\Debug\03_LINQ.exe
+C:\Users\Meta Posto\source\repos\01_LINQ\03_LINQ\bin\Debug\03_LINQ.pdb
+C:\Users\Meta Posto\source\repos\01_LINQ\03_LINQ\obj\Debug\03_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Meta Posto\source\repos\01_LINQ\03_LINQ\obj\Debug\03_LINQ.exe
+C:\Users\Meta Posto\source\repos\01_LINQ\03_LINQ\obj\Debug\03_LINQ.pdb
+C:\Users\Meta Posto\source\repos\01_LINQ\03_LINQ\obj\Debug\03_LINQ.csprojResolveAssemblyReference.cache

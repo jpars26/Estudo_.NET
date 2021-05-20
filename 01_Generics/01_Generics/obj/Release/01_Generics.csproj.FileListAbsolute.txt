@@ -1,0 +1,2 @@
+C:\Users\Meta Posto\source\repos\01_Generics\01_Generics\obj\Release\01_Generics.csproj.CoreCompileInputs.cache
+C:\Users\Meta Posto\source\repos\01_Generics\01_Generics\obj\Release\01_Generics.csprojResolveAssemblyReference.cache
