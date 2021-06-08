@@ -19,10 +19,13 @@ namespace _04_NullLable
             object o = null;
 
 
-            //MSQL - ORacle .... NoSQL - Informações Opcionais ela pode ser nula
-            //Esses dois códigos fazem a mesma coisa, faz com que a variavel possa receber valores nulos ou ser nulo
+            /*MSQL - ORacle .... NoSQL - Informações Opcionais que pode ser nula
+            Esses dois códigos fazem a mesma coisa,*
+            faz com que a variavel possa receber valores nulos ou ser nulo*
+            */
+
             Nullable<int> idade = null;
-            int? idade2 = null;
+            int? idade2 = null;  
         }
     }
 }
